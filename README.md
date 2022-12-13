@@ -1,5 +1,3 @@
-English | [Español](https://github.com/UN-SPIDER/radar-based-flood-mapping-spanish)
-
 <p><center> <img src="resources/header.png" width="1000"/> </p></center>
 
 # Radar-based Flood Mapping
